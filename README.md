@@ -23,7 +23,7 @@ changes and commit some updates. Remember, we are trying to make
 a learning resource here, so commit anything you think will be
 helpful - new files, links, folders, whatever.
 
-At 2 PM on Tuesday (Eastern US Time), I'll host a Google Hangout
+At *19:00* on Tuesday (Eastern US Time), I'll host a Google Hangout
 where we'll talk about the Github approach. I want to focus on a
 discussion about the "Github way" (forking, branching, and
 decentralization) and how it differs from the Wikipedia way and
