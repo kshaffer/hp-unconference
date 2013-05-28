@@ -38,4 +38,4 @@ Please also tweet to me (@isharacomix) so that I know who you are!
 
   * Hangout URL: **tbd**
   * Youtube URL: **tbd**
-
+  * Forum URL: http://www.hybridpedagogy.com/commons.html#/discussion/19/tuesday-may-28-fork-me-on-github
